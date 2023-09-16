@@ -1,2 +1,2 @@
 # accessible-marketing-website
-Website refactoring for accessibility for the disabled community.
+Website code refactoring for technology accessibility that assists persons with disabilities.
