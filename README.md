@@ -9,6 +9,7 @@ As a web-developer, I am refactoring the code of our client’s website to meet 
 - Heading attributes fall in sequential order
 - Concise and descriptive title
 
+![Alt text](https://github.com/Lychnian/accessible-marketing-website/assets/140586279/abd2493f-3cf0-4ae2-b12e-59e232f4ff76)
 
 ## Installation
 
@@ -21,6 +22,7 @@ While viewing this website (https://lychnian.github.io/accessible-marketing-webs
 
 Below you will find an image of the website's landing page.
 
+![Horiseon](https://github.com/Lychnian/accessible-marketing-website/assets/140586279/149c8b74-abf4-433a-a84b-67b2672f0724)
 
 ## Credits
 
@@ -40,3 +42,4 @@ Tom Woods, TA
 ## License
 
 Please refer to the LICENSE in the repo.
+
