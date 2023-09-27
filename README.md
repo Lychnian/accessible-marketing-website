@@ -25,11 +25,11 @@ Below you will find an image of the website's landing page.
 ## Credits
 
 The main sources used for reference on semantic HTML elements and CSS coding are:
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://blog.hubspot.com/website/screen-reader-accessibility
-https://www.w3schools.com/accessibility/accessibility_semantic_elements.php
-https://stackoverflow.com/questions/24690160/html-aside-tag-vs-div-tag
-https://www.w3schools.com/tags/tag_aside.asp
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://blog.hubspot.com/website/screen-reader-accessibility
+- https://www.w3schools.com/accessibility/accessibility_semantic_elements.php
+- https://stackoverflow.com/questions/24690160/html-aside-tag-vs-div-tag
+- https://www.w3schools.com/tags/tag_aside.asp
 
 
 ## Acknowledgements
